@@ -1,0 +1,20 @@
+#contform{
+    background: #f1f0fe;
+}
+
+.sign {
+    border-radius: 5px;
+    padding: 30px 50px;
+    width : 60%;
+    background: #fff;
+}
+
+.sign h3{
+    color: salmon;
+    font-weight: bold;
+}
+
+.sign label {
+    font-size: 15px;
+    color: #524bbd;
+}

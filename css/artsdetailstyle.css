@@ -1,0 +1,16 @@
+
+/*content*/
+
+#artwork{
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+#artwork:hover{
+    transform: scale(1.2, 1.2);
+}
+
+.artdone{
+    padding: 0;
+    overflow: hidden;
+}
